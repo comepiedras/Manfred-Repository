@@ -1,0 +1,245 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Elena",
+      "surnames": "Rodríguez Jorge",
+      "title": "Director of Data & Analytics",
+      "description": "I am a down-to-earth Data & Analytics Director driven by a genuine passion for solving complex problems, regardless of the technology or information available. I consider myself a pragmatic builder who bridges the gap between high-level strategy and technical execution across the entire data lifecycle. I thrive on the challenge of wearing multiple hats—fluidly operating as an analyst, scientist, engineer, architect, team lead, or project manager all at once—and I love it. This end-to-end immersion is exactly what gives me the deep technical credibility and operational weight required to steer department-wide technology and data strategies. My track record spans from establishing robust data governance and high-scale warehousing to deploying machine learning and near-real-time streaming pipelines. While I enjoy the capabilities of advanced data architectures, my focus is always on maximizing efficiency and business value. As a leader, I feel genuinely proud seeing the growth and progression of my team. My leadership focuses on driving operational efficiency and scalability through best practices, while fiercely protecting a safe, high-trust environment where people can elevate both their technical and soft skills. I deeply cherish knowledge sharing and aspire to keep learning with every role I take on, constantly expanding my expertise well beyond my own field.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/29/93e9c68d-04be-47c6-a5d3-82843aebcb0f_elena.jpg",
+        "alt": "Elena.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJxeMw-HeRpBIR_t-41YJp6_o)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Rubí"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/erguez"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Aldi supermercados"
+        },
+        "roles": [
+          {
+            "name": "Director of Data & Analytics ",
+            "startDate": "2019-09-01",
+            "competences": [
+              {
+                "name": "Azure DevOps",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "R",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Databricks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PySpark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "R",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "BS in mathematics",
+        "startDate": "2002-09-01",
+        "institution": {
+          "name": "ULL, university of La Laguna"
+        },
+        "finishDate": "2006-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in advanced mathematics",
+        "startDate": "2006-09-01",
+        "institution": {
+          "name": "UAB"
+        },
+        "finishDate": "2007-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "PhD in Mathematics",
+        "startDate": "2007-09-01",
+        "institution": {
+          "name": "UAB",
+          "description": "Thesis on non commutative algebra. "
+        },
+        "finishDate": "2011-11-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/erguez",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Claude Code",
+          "type": "technology"
+        },
+        {
+          "name": "Databricks",
+          "type": "technology"
+        },
+        {
+          "name": "PySpark",
+          "type": "technology"
+        },
+        {
+          "name": "R",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Engineer",
+        "Data Scientist",
+        "Director / General Manager"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Databricks",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Power BI",
+        "type": "technology"
+      },
+      {
+        "name": "PySpark",
+        "type": "technology"
+      },
+      {
+        "name": "R",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ]
+  }
+}

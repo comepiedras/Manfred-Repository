@@ -66,6 +66,33 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "DXC Technologies"
+        },
+        "roles": [
+          {
+            "name": "Data Scientist Team Lead",
+            "startDate": "2017-03-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "* Team Leadership & Delivery: Led an 8-person multidisciplinary team across 3 concurrent analytics projects (primarily for a major banking client), drastically reducing time-to-market while adhering strictly to bank regulations and architectural guidelines.\nDirected the deployment of analytical workloads and near-real-time fraud prevention rules within the bank's enterprise Big Data ecosystem, leveraging Spark Streaming, ODI, and BDA.\n\n* Fraud Mitigation & Code Refactoring: Developed models and rules to prevent fraud, and completely rewrote third-party algorithms to optimize performance and meet strict corporate best practices for production."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "R",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

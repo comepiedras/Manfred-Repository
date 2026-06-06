@@ -93,6 +93,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Hotelbeds"
+        },
+        "roles": [
+          {
+            "name": "Data and Analytics Team Lead",
+            "startDate": "2015-10-01",
+            "finishDate": "2017-03-01",
+            "challenges": [
+              {
+                "description": "● Advanced Recommendation Engine: Engineered a complex recommendation engine using PySpark and Impala, integrating qualitative scoring and business prioritization, using Tableau for performance tracking.\n\n● High-Scale ETL & Data Transformation: Built advanced PySpark and SQL pipelines to automate the parsing, cleaning, and modelling of massive log data, designing a data model optimized to process over 1.500 million rows per day."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Cloudera",
+                "type": "technology"
+              },
+              {
+                "name": "DynamoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Impala",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

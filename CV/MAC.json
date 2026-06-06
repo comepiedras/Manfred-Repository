@@ -128,6 +128,10 @@
               {
                 "name": "PySpark",
                 "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
               }
             ]
           }

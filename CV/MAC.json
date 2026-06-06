@@ -132,6 +132,33 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "IBM"
+        },
+        "roles": [
+          {
+            "name": "Advanced Analytics Consultant",
+            "startDate": "2013-10-01",
+            "finishDate": "2015-09-01",
+            "challenges": [
+              {
+                "description": "● Advanced analytics: Developed a text mining workflow to automatically classify unstructured call centre records. Integrated these extracted insights with structured internal data to build a predictive customer churn model. Executed technical validations to demonstrate the scale, processing power, and architectural capabilities of IBM’s Big Data ecosystem for a financial institution.\n\n● Cross-Sector Consulting & Client Delivery: Adapted rapidly to diverse environments by delivering analytics projects across multiple industries, presenting technical results directly to corporate clients."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SPSS",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

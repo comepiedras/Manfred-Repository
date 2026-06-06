@@ -83,11 +83,19 @@
             ],
             "competences": [
               {
+                "name": "ETL",
+                "type": "technology"
+              },
+              {
                 "name": "Oracle",
                 "type": "technology"
               },
               {
                 "name": "R",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
                 "type": "technology"
               }
             ]
